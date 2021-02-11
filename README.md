@@ -8,3 +8,8 @@ email : blackwidow@avanger.com,nickfury@avenger.com,ironman@avenger.com,spiderma
 
 password : 1234
 
+
+#
+
+Frontend Developed with Angular : 
+https://github.com/mayurbaldha/AngularAuthCRUD
