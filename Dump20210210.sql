@@ -68,7 +68,7 @@ CREATE TABLE `users` (
 
 LOCK TABLES `users` WRITE;
 /*!40000 ALTER TABLE `users` DISABLE KEYS */;
-INSERT INTO `users` VALUES (1,'mayur','baldha','m.g.baldha@gmail.com','abc123',NULL,NULL),(2,'Black','widow','blackwidow@avanger.com','$2a$08$qEnQrMldgJfOZsFHGSgqpueJKXer.HKxkcjKe7krFxzXibK5/1l4O','2021-02-09 11:18:41','2021-02-09 11:18:41'),(3,'nick','fury','nickfury@avenger.com','$2a$08$wyG4hkple4uKKlUuem8Dg.M30hBOQgXUKgPcW7QGSjsYQZ3aPyYTu','2021-02-10 11:53:01','2021-02-10 11:53:01'),(4,'iron','man','ironman@avenger.com','$2a$08$J5262ziM6PtWHLFHnDAqF.UuORRSfyuXXB6qDpcY7sEdnjZwqp4Wu','2021-02-10 12:00:06','2021-02-10 12:00:06'),(5,'spider','man','spiderman@avenger.com','$2a$08$r2gtlcuVJ0wud6n6riCVguPQ5bbagKLLbx419YWsZ08rjBRtJw4qe','2021-02-10 12:02:08','2021-02-10 12:02:08');
+INSERT INTO `users` VALUES (2,'Black','widow','blackwidow@avanger.com','$2a$08$qEnQrMldgJfOZsFHGSgqpueJKXer.HKxkcjKe7krFxzXibK5/1l4O','2021-02-09 11:18:41','2021-02-09 11:18:41'),(3,'nick','fury','nickfury@avenger.com','$2a$08$wyG4hkple4uKKlUuem8Dg.M30hBOQgXUKgPcW7QGSjsYQZ3aPyYTu','2021-02-10 11:53:01','2021-02-10 11:53:01'),(4,'iron','man','ironman@avenger.com','$2a$08$J5262ziM6PtWHLFHnDAqF.UuORRSfyuXXB6qDpcY7sEdnjZwqp4Wu','2021-02-10 12:00:06','2021-02-10 12:00:06'),(5,'spider','man','spiderman@avenger.com','$2a$08$r2gtlcuVJ0wud6n6riCVguPQ5bbagKLLbx419YWsZ08rjBRtJw4qe','2021-02-10 12:02:08','2021-02-10 12:02:08');
 /*!40000 ALTER TABLE `users` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
